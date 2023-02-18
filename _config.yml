@@ -20,6 +20,7 @@
 
 title: thehuffster
 email: thegreaterici@gmail.com
+author: Eric Huff
 description: >- # this means to ignore newlines until "baseurl:"
   Hey there! My name's Eric Huff, and I write C++ and Rust. 
   This is where I share my thoughts on projects I'm working on, languages,
@@ -30,9 +31,11 @@ twitter_username: trollham
 github_username:  trollham
 page_excerpts: true
 show_excerpts: true
+skin: midnight
 
 # Build settings
 theme: minima
+remote_theme: ngzhio/jekyll-theme-hamilton
 plugins:
   - jekyll-feed
 
